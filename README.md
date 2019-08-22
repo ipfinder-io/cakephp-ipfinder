@@ -14,7 +14,7 @@ The official CodeIgniter IPFinder Library for the [IPFinder.io](https://ipfinder
 The recommended way to install composer packages is:
 
 ```bash
-$ composer require ipfinder-io/ipfinder-cakephp
+$ composer require ipfinder-io/cakephp-ipfinder
 ```
 
 ## How to Use
