@@ -91,9 +91,12 @@ class TestsController extends AppController
 
 
 
-## other
+## Other
 
 - See the [IPFidner documentation](https://ipfinder.io/docs).
 - See the [IPFinder PHP Client Library](https://github.com/ipfinder-io/ip-finder-php).
 
-[![GitHub license](https://img.shields.io/github.com/ipfinder-io/cakephp-ipfinder.svg)](https://github.com/ipfinder-io/cakephp-ipfinder/blob/master/LICENSE)
+## License
+
+[![GitHub license](https://img.shields.io/github/license/ipfinder-io/cakephp-ipfinder)](https://github.com/ipfinder-io/cakephp-ipfinder/blob/master/LICENSE)
+
