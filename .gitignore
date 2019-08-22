@@ -1,0 +1,7 @@
+/composer.lock
+/phpunit.xml
+/vendor
+/tests
+phpunit.xml.dist
+/config
+/webroot
